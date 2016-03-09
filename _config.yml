@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.951014
+  lightness: 0.109755
+  rhythmicContrast: 0.749155
+  saturation: 0.390203
+cta: {}
+layout_spectrum: 0.618243
+name: HackTheRock
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.588682
